@@ -1,4 +1,4 @@
-# Clone of justpark booking website 2
+# Clone of justpark booking website
 
 <img src="screenshot.png" />
 
